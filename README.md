@@ -2,7 +2,6 @@
 
 ---
 
-## 🧠 About Me
 I'm Karabo, a cybersecurity student based in South Africa.
 
 I am building pratciacl skills though TryHackMe labs, Hack the box and CTF challenges in real-world cybersecurity scenarios.
