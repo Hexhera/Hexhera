@@ -1,6 +1,5 @@
 # 👾 hexhera
 
----
 
 I'm Karabo, a cybersecurity student based in South Africa.
 
