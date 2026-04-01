@@ -13,7 +13,6 @@ I am building pratciacl skills though TryHackMe labs, Hack the box and CTF chall
 - 🖥️ Virtual Labs (Oracle VirtualBox)
 - 🛡️ Security Fundamentals (Ethical hacking, Security+, CySA+, firewalls)
   
----
 
 ## 📂 Projects
 Check out my repositories for writeups, notes, and security labs.
