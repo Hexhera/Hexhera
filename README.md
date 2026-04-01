@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👾 hexhera
 
-<!--
-**Hexhera/Hexhera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+I'm Karabo, a cybersecurity student based in South Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building pratciacl skills though TryHackMe labs, Hack the box and CTF challenges in real-world cybersecurity scenarios.
+
+## ⚙️ Skills & Tools
+- 🔐 Cybersecurity Fundamentals (CompTIA A+)
+- 🌐 Networking (Network+)
+- 🐧 Linux & Windows Environments
+- 🧪 APP Security (IAAA, JWTs, OWASP top 10)
+- 🖥️ Virtual Labs (Oracle VirtualBox)
+- 🛡️ Security Fundamentals (Ethical hacking, Security+, CySA+, firewalls)
+  
+---
+
+## 📂 Projects
+Check out my repositories for writeups, notes, and security labs.
+
+> Learn it. Break it. Secure it. 🔓
+
+ 
