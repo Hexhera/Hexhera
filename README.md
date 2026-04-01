@@ -1,9 +1,9 @@
 # 👾 hexhera
 
 
-I'm Karabo, a cybersecurity student based in South Africa.
+I'm Karabo, a Cybersecurity student based in South Africa.
 
-I am building pratciacl skills though TryHackMe labs, Hack the box and CTF challenges in real-world cybersecurity scenarios.
+I am building practical skills though TryHackMe labs, Hack the box and CTF challenges in real-world cybersecurity scenarios.
 
 ## ⚙️ Skills & Tools
 - 🔐 Cybersecurity Fundamentals (CompTIA A+)
