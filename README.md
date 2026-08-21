@@ -7,11 +7,13 @@ I am applying practical skills though TryHackMe labs, Hack the box and CTF chall
 Focused on penetration testing and application security.
 
 ## ⚙️ Skills & Tools
-- 🛡️Cybersecurity Fundamentals (CompTIA A+, Security+, CySA+, Pentest+)
-- 🌐 Networking (Network+)
-- 🐧 Linux & Windows Environments
-- 🧪 APP Security (IAAA, JWTs, XSS, CSRFs, SQLi, OWASP top 10)
-- 🖥️ Virtual Labs (Oracle VirtualBox)
+- 🔐Cybersecurity
+- 🛡️ Application Security (IAAA, JWTs, XSS, CSRFs, SQLi, OWASP top 10)
+- 🌐 Networking 
+- 🐧 Linux & Windows
+- 🖥️ Programming and scripting
+- ☁️ Cloud technologies and virtualization
+  
   
 
 ## 📂 Projects
